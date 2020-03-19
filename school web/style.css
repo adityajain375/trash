@@ -1,0 +1,41 @@
+.school{
+    margin-left: 200px;
+    display: center;
+}
+h1{
+    color: green;
+    margin-left: 500px;
+}
+h3{
+    color: navy;
+}
+.intro{
+    background-color:  rgb(0, 255, 242);
+}
+.introname{
+    display: flex;
+    background-color:rgb(101, 238, 74);
+}
+.event1{
+    color: seagreen;
+    font-weight: bolder;
+    font-size: 25px;
+}
+.event2{
+    color: seagreen;
+    font-weight: bolder;
+    font-size: 25px;
+}
+body{
+    border: solid;
+    border-color:rgb(178, 190, 2);
+    border-width: 0.3cm;
+    background-color: rgba(156, 252, 93, 0.815);
+}
+.menu{
+    display: flex;
+    justify-content: flex-end;
+}
+.menu2 a{
+    margin: 15px;
+}
